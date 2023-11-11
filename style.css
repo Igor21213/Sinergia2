@@ -1,0 +1,42 @@
+.blockTable{
+	background-color: #00ff79;
+	height: 700px;
+	width: 700px;
+	margin-left: 300px;
+}
+
+.table1{
+	height: 200px;
+	width: 200px;
+	margin-left: 50px;
+	font-size: 40px;
+	position: absolute;
+	top: 40px;
+}
+
+.table2{
+	height: 200px;
+	width: 200px;
+	margin-left: 50px;
+	font-size: 40px;
+	position: absolute;
+	top: 400px;
+}
+
+.table3{
+	height: 200px;
+	width: 200px;
+	margin-left: 400px;
+	font-size: 40px;
+	position: absolute;
+	top: 40px;
+}
+
+.table4{
+	height: 200px;
+	width: 200px;
+	margin-left: 400px;
+	font-size: 40px;
+	position: absolute;
+	top: 400px;
+}
